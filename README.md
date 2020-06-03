@@ -26,8 +26,6 @@ Todos os requisitos do projeto serão testados automaticamente. Os testes para c
 
 ## Requisitos do projeto
 
-⚠️ Lembre-se que o seu projeto só será avaliado se estiver passando pelos _checks_ do **CodeClimate**
-
 #### 1 Crie um componente chamado `Header`
 
 Esse componente representará o cabeçalho da página.
